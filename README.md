@@ -23,8 +23,6 @@ flowers
 ```
 ![Original flowers image](flowers.png "Original flowers image")
 
-with Floyd-Steinberg
-[[https://raw.githubusercontent.com/fgmart/dithering-in-racket/master/floyd-steinberg-labeled.png]]
+![with Floyd-Steinberg](floyd-steinberg-labeled.png "with Floyd-Steinberg")
 
-with Burkes
-[[https://raw.githubusercontent.com/fgmart/dithering-in-racket/master/burkes-labeled.png]]
+![with Burkes](burkes-labeled.png "with Burkes")
