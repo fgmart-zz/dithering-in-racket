@@ -66,7 +66,7 @@
       grays)))
 
 ; Floyd-Steinberg pseudocode from Wikipedia
-; 
+; https://en.wikipedia.org/wiki/Floyd%E2%80%93Steinberg_dithering
 ; 
 ; for each y from top to bottom
 ;    for each x from left to right
