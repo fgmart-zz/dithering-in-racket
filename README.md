@@ -21,7 +21,7 @@ flowers
 (bitmap->floyd-steinberg flowers)
 (bitmap->burkes flowers)
 ```
-![Original flowers image]([https://raw.githubusercontent.com/fgmart/dithering-in-racket/master/flowers.png "Original flowers image")
+![Original flowers image](flowers.png "Original flowers image")
 
 with Floyd-Steinberg
 [[https://raw.githubusercontent.com/fgmart/dithering-in-racket/master/floyd-steinberg-labeled.png]]
