@@ -1,6 +1,8 @@
 #lang racket
 
 (require racket/draw)
+(provide bitmap->burkes)
+(provide bitmap->floyd-steinberg)
 
 ; Fred Martin, fred_martin@uml.edu
 ; Nov 18 2017
